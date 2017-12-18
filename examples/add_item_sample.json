@@ -1,0 +1,12 @@
+{
+    "TableName":"customer",
+	"Item":{
+		"emp_id":"1",
+		"first_name":"test",
+		"last_name":"user",
+		"email":"test@test.com",
+		"home_address":"home address",
+		"office_address":"office address"
+	}
+}
+

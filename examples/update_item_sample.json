@@ -1,0 +1,15 @@
+{
+	"TableName": "customer",
+	"Key": {
+		"Some": "emp_id"
+	},
+	"UpdateExpression": "set #a=:new_val",
+	"ConditionExpression": "#a=:old_val",
+	"ExpressionAttributeNames": {
+		"#a": "home_address"
+	},
+	"ExpressionAttributeValues": {
+		":new_val": "new home address",
+		":old_val": "home address"
+	}
+}
