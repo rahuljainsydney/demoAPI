@@ -1,2 +1,2 @@
-# demoAPI
-Project to demo API Services
+# Demo API 
+Project to demo API Services for Quantas
