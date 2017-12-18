@@ -1,0 +1,11 @@
+{
+  "name": "dbFunction",
+  "version": "1.0.0",
+  "description": "Lambda DB Function",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dynamodb-doc": "^1.0.0"
+  }
+}
