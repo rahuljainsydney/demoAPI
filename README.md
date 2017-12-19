@@ -19,14 +19,14 @@ Note: Please update the lambda function ARN in the swagger json. Or, if creating
 
 
 ## Installation
+1. Use AWS CLI to create the Dynamo DB Structure. create_table_script.txt contains the AWS CLI command to create the structure.
 
-Navigate to the directory where you downloaded the lambdaFunction. Then run npm install.
+2. Navigate to the directory where you downloaded the lambdaFunction. Then run npm install. Zip the node_modules and index.js and upload the AWS Lambda Function. 
 
-Zip the node_modules and index.js and upload the AWS Lambda Function. 
+3. Deploy the API by importing Swagger file
 
-## API Reference
+4. Test the API using AWS API Console or Postman using the sample scripts are provided in the example provided. 
 
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
 
 ## Tests
 
