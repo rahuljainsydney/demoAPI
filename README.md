@@ -35,5 +35,5 @@ Depending on the size of the project, if it is small and simple enough the refer
 
 ## Contributors
 
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+Rahul Jain
 
